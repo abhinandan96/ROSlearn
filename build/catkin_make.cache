@@ -1,0 +1,2 @@
+my_robot_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/abhinandan/Github_Projects/learnROS/devel -DCMAKE_INSTALL_PREFIX=/home/abhinandan/Github_Projects/learnROS/install -G Unix Makefiles
